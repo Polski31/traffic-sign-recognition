@@ -2,7 +2,6 @@
 gtsrb-german-traffic-sign/
 main/
 myData/
-output/
 temp/
 venv/
 .DS_Store
