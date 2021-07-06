@@ -1,8 +1,3 @@
-# USAGE
-# python recognition/predict.py --model output/trafficsignnet.model
-#                               --images gtsrb-german-traffic-sign/Test
-#                               --examples examples
-
 import os
 import random
 import cv2

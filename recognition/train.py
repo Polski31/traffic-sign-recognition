@@ -1,4 +1,3 @@
-# USAGE
 # python recognition/train.py --dataset gtsrb-german-traffic-sign --model output/trafficsignnet.model --plot output/plot.png
 
 import matplotlib
